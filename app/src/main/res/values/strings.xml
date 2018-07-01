@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Quiz App</string>
+    <!-- List of Toppings in the app -->
+
+    <!-- Toppings for the Questions 1-5 -->
+    <string name="questionOne">Question One:</string>
+    <string name="questionTwo">Question Two:</string>
+    <string name="questionThree">Question Three:</string>
+    <string name="questionFour">Question Four:</string>
+    <string name="questionFive">Question Five:</string>
+
+    <!-- Toppings for First Header -->
+    <string name="quiz">General Quiz Questions.</string>
+
+    <!-- Toppings for Success Message -->
+    <string name="success">Wish You Good Luck!</string>
+
+    <!-- Toppings for Question Two Options  -->
+    <string name="questionTwoOptionOne">Barack Obama.</string>
+    <string name="questionTwoOptionTwo">Jacob Zuma.</string>
+    <string name="questionTwoOptionThree">Bill Gate.</string>
+
+    <!-- Toppings for Question Three Options  -->
+    <string name="questionThreeOptionOne">True.</string>
+    <string name="questionThreeOptionTwo">Sometimes True.</string>
+    <string name="questionThreeOptionThree">False.</string>
+    <string name="questionThreeOptionFour">Someties False.</string>
+
+    <!-- Toppings for Question Four Options  -->
+    <string name="questionFourOptionOne">December 26th.</string>
+    <string name="questionFourOptionTwo">December 25th.</string>
+    <string name="questionFourOptionThree">January 25th.</string>
+
+    <!-- Toppings for Question Five Options  -->
+    <string name="questionFiveOptionOne">True.</string>
+    <string name="questionFiveOptionTwo">Sometimes True.</string>
+    <string name="questionFiveOptionThree">False.</string>
+    <string name="questionFiveOptionFour">Someties False.</string>
+
+    <!-- Toppings for Submit Quiz Button  -->
+    <string name="button_click">Submit Quiz.</string>
+
+    <!-- Toppings for All Questions  -->
+    <string name="question_one">What rises in the East and sets in the West.</string>
+    <string name="question_two">Who is the 44th President of the United States.</string>
+    <string name="question_three">Yes or No: People who have college degree earn more money than non degree holders.</string>
+    <string name="question_four">Which day is Christmas celebrated in United States of America.</string>
+    <string name="question_five">Yes or No: In order to be a leader, you must have followers.</string>
+
+</resources>
